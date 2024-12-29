@@ -13,6 +13,6 @@ MonoBehaviour:
   m_Name: Faction Data
   m_EditorClassIdentifier: 
   FactionNameList:
-  - Red NPC
-  - Blue NPC
+  - Zombies
+  - Survivers
   - Player
